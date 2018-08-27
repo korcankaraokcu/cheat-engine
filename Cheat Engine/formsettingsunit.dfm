@@ -134,7 +134,7 @@ object formSettings: TformSettings
           Top = 345
           Width = 141
           Height = 16
-          Caption = '(Seperate entries with ; )'
+          Caption = '(Separate entries with ; )'
         end
         object cbShowUndo: TCheckBox
           Left = 1

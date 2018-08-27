@@ -180,7 +180,7 @@ object formSettings: TformSettings
             Top = 482
             Width = 126
             BorderSpacing.Left = 5
-            Caption = '(Seperate entries with ; )'
+            Caption = '(Separate entries with ; )'
             ParentColor = False
           end
           object cbShowUndo: TCheckBox
